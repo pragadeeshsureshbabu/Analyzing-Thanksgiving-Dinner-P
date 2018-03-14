@@ -1,2 +1,2 @@
-# Analyzing-Thanksgiving-Dinner-P
-Analyzing Thanksgiving Dinner P using Pandas
+# Analyzing-Thanksgiving-Dinner
+Analyzing Thanksgiving Dinner using Pandas
